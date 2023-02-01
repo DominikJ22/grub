@@ -13,7 +13,7 @@ const FoodCatalog = () => {
 
   useEffect(() => {
     const fetchFoodType = async () => {
-      const res = await fetch(`http://localhost:5000/product?category=${foodEndpoint}`, {
+      const res = await fetch(`https://grub.onrender.com/product?category=${foodEndpoint}`, {
         headers: {
           "Authorization": `Bearer ${token}`
         }
