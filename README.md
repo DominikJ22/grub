@@ -1,7 +1,7 @@
 # Grub
 Fullstack meal ordering app to order your favorite junk food in a healthier version.
 
-**Link to project:** https://grub-7z6jgl9kc-dominikj22.vercel.app/login
+**Link to project:** https://grub-7z6jgl9kc-dominikj22.vercel.app/login </br>
 **Link to github:** https://github.com/DominikJ22/grub
 
 <p align="center">
