@@ -5,7 +5,7 @@ Fullstack meal ordering app to order your favorite junk food in a healthier vers
 
 
 <p align="center">
-<img width="500" src="grub.gif" alt="grub.gif"/> 
+<img src="grub.gif" alt="grub.gif"/> 
 </p>
 
 ## How It's Made:
